@@ -1,5 +1,5 @@
 # !/bin/bash
-# A simple calculator shell program
+# A simple calculator shell program testing
 
 echo "1. Addition"
 echo "2. Subtraction"
